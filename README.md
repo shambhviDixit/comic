@@ -1,2 +1,1 @@
-# comic
-UTF-8
+# PRO-C157-Student-Activity
