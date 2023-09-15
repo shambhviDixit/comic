@@ -1,0 +1,2 @@
+# comic
+UTF-8
